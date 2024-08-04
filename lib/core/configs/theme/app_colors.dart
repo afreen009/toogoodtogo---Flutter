@@ -7,4 +7,6 @@ class AppColors {
   static const secondary1 = Color(0xffD6BD98);
   static const textColor = Color(0xffF7F7F7);
   static const darkGrey = Color(0xff343434);
+  static const appleLogin = Color(0xff000000);
+  static const facebookLogin = Color(0xff658ff7);
 }
